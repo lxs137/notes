@@ -23,6 +23,7 @@
 * [ServiMesher 敖小剑blog](https://skyao.io/)
 ### Android
 * [Dalvik和ART](https://www.kancloud.cn/alex_wsc/androids/472173)
+* [Understand "init.rc"](https://android.googlesource.com/platform/system/core/+/master/init/README.md)
 
 ## Game
 * [游戏编程模式](https://gpp.tkchu.me/)
