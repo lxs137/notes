@@ -21,7 +21,7 @@
 * [Makefile 入门](https://seisman.github.io/how-to-write-makefile/)
 * [Automake && Autoconf](http://autotoolset.sourceforge.net/tutorial.html)
 * [AddressSanitizer && ThreadSanitizer && MemorySanitizer](https://github.com/google/sanitizers/wiki)
-* [__attribute__ in GCC](https://nshipster.com/__attribute__/)
+* [\__ attribute \__ in GCC](https://nshipster.com/__attribute__/)
 #### Code
 * [Mix C and C++](https://isocpp.org/wiki/faq/mixing-c-and-cpp)
 * [C++ Templates入门](https://github.com/wuye9036/CppTemplateTutorial/blob/master/ReadMe.md)
