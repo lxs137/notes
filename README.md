@@ -17,11 +17,14 @@
 * [Typescript Decorators](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 * [Hack lib](http://taobaofed.org/blog/2016/10/28/how-to-hack-nodejs-modules/)
 ### C/C++
+#### ToolChain
 * [Makefile 入门](https://seisman.github.io/how-to-write-makefile/)
 * [Automake && Autoconf](http://autotoolset.sourceforge.net/tutorial.html)
+* [AddressSanitizer && ThreadSanitizer && MemorySanitizer](https://github.com/google/sanitizers/wiki)
+* [__attribute__ in GCC](https://nshipster.com/__attribute__/)
+#### Code
 * [Mix C and C++](https://isocpp.org/wiki/faq/mixing-c-and-cpp)
 * [C++ Templates入门](https://github.com/wuye9036/CppTemplateTutorial/blob/master/ReadMe.md)
-* [AddressSanitizer && ThreadSanitizer && MemorySanitizer](https://github.com/google/sanitizers/wiki)
 * [C++ Game Programmer's Blog](https://preshing.com/)
 
 ## Tools && Framework
