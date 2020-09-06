@@ -21,3 +21,7 @@ ioctl(vcpufd, KVM_SET_REGS, &regs);
 * 启动 guest CPU，`ioctl(vcpufd, KVM_RUN, NULL)`
 > To run a multi-CPU VM, the user-space process must spawn multiple threads, and call KVM_RUN for different virtual CPUs in different threads.
 * `kvm_run->exit_reason` 表示 guest CPU 中断执行的原因（halt、I/O）
+
+## [use KVM to intercept guest VM](https://drive.google.com/file/d/1nFoCM62BWKSz2TKhNkrOjVwD8gP51VGK/view)
+* KVM-VMI: https://github.com/KVM-VMI/kvm-vmi
+* custom KVM and QEMU
